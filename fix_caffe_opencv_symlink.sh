@@ -1,6 +1,6 @@
 
 # If you call your environment something else, need to edit the below line
-cd ~/anaconda2/envs/ml-suite/lib/
+cd ~/.conda/envs/ml-suite/lib/
 
 ln -s libopencv_highgui.so libopencv_highgui.so.3.3
 ln -s libopencv_imgcodecs.so libopencv_imgcodecs.so.3.3
